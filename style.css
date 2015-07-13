@@ -24,16 +24,16 @@ body{
   padding: 50px 0;
 }
 #topleft{
-  background-color: #ddd;
+  background-color: #d7d7d7;
 }
 #topright{
-  background-color: #d7d7d7;
+  background-color: #ddd;
 }
 #bottomleft{
-  background-color: #d7d7d7;
+  background-color: #ddd;
 }
 #bottomright{
-  background-color: #ddd;
+  background-color: #d7d7d7;
 }
 #middle{
   width: 300px;
